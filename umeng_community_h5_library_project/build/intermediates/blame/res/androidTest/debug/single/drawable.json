@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_h5/umeng_community_h5_library_project/build/intermediates/res/merged/androidTest/debug/drawable/umeng_login_btnbg.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_h5/umeng_community_h5_library_project/build/intermediates/bundles/debug/res/drawable/umeng_login_btnbg.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_h5/umeng_community_h5_library_project/build/intermediates/res/merged/androidTest/debug/drawable/umeng_comm_h5_loading_style.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_h5/umeng_community_h5_library_project/build/intermediates/bundles/debug/res/drawable/umeng_comm_h5_loading_style.xml"
+    }
+]

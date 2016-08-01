@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_h5/umeng_community_h5_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_h5_register.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_h5/umeng_community_h5_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_h5_register.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_h5/umeng_community_h5_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_h5_login.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_h5/umeng_community_h5_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_h5_login.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_h5/umeng_community_h5_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_h5_browser_url.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_h5/umeng_community_h5_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_h5_browser_url.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_h5/umeng_community_h5_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_h5_main_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_h5/umeng_community_h5_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_h5_main_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_h5/umeng_community_h5_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_h5_loading_dialog.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_h5/umeng_community_h5_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_h5_loading_dialog.xml"
+    }
+]
